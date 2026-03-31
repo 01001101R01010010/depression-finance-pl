@@ -19,13 +19,14 @@ This is a data engineering and data science project built for fun, transparency,
 
 | Financial Indicator | Data Source | Period |
 |---|---|---|
-| NBP Interest Rates | National Bank of Poland | 2004–2024 |
-| Bitcoin Price (BTC/PLN) | Yahoo Finance | 2013–2024 |
-| Warsaw Apartment Prices | GUS / NBP | 2006–2024 |
-| Inflation (CPI) | GUS | 2004–2024 |
-| WIG20 Stock Index | Yahoo Finance | 2004–2024 |
+| NBP Interest Rates | National Bank of Poland | 2004–present |
+| Bitcoin Price (BTC/PLN) | Yahoo Finance | 2013–present |
+| Warsaw Apartment Prices | GUS / NBP | 2006–present |
+| Inflation (CPI) | GUS | 2004–present |
+| WIG20 Stock Index | Yahoo Finance | 2004–present |
 
 **Depression data source:** WHO / Eurostat / GUS (National Health Surveys)
+
 
 ---
 
