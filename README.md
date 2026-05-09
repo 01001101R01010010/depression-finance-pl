@@ -1,11 +1,11 @@
-# 🧠💰 Does Your Wallet Make You Depressed?
+# Does Your Wallet Make You Depressed?
 ### Correlating Polish Financial Data with Depression Rates (2004–2024)
 
 > *"Correlation does not imply causation — but it sure makes you think."*
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This project explores a simple but provocative question: **Is there a statistical relationship between financial indicators and depression rates in Poland?**
 
@@ -15,7 +15,7 @@ This is a data engineering and data science project built for fun, transparency,
 
 ---
 
-## 📊 Datasets & Correlations Explored
+## Datasets & Correlations Explored
 
 | Financial Indicator | Data Source | Period |
 |---|---|---|
@@ -44,7 +44,7 @@ This is a data engineering and data science project built for fun, transparency,
 
 ---
 
-## 🏗️ Project Structure
+##Project Structure
 ```
 depression-finance-pl/
 ├── data/
